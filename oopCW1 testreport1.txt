@@ -1,0 +1,7 @@
+reduce the vehicle count when vehicle removed
+reduce the vehicle count specifing to type of the vehicle
+show the charges  when vehicle is removing and remove continue to charges option when vehicle remove
+use collection..sort to the show vehicle list method
+add a method to delete miss entry (vehicle with wrong information with out adding to the log)
+vehicle remove function has something wrong , some times it cant remove  a vehicle what in the park
+add nothing to display park empty to all  neccesserty methods
